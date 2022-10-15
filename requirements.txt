@@ -1,0 +1,12 @@
+jupyter
+pandas
+matplotlib
+plotly
+isort
+yapf
+autopep8
+scikit-learn
+tensorflow
+tqdm
+imgaug
+segmentation-models
