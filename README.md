@@ -1,6 +1,6 @@
 # Car Vision Segmentation Model 🚗
 
-## OpenClassrooms Project 8: Computer Vision for Autonomous Vehicles
+## Project: Computer Vision for Autonomous Vehicles
 
 ### 📋 Project Overview
 Development of a semantic segmentation model for Future Vision Transport's autonomous vehicle system. This project implements state-of-the-art computer vision techniques to identify and segment various objects in urban driving scenarios.
@@ -132,9 +132,6 @@ Special attention to:
 - Models require GPU for optimal performance
 - Large model files not included in repo (use Git LFS or download separately)
 - See requirements.txt for exact dependency versions
-
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
 
 ---
 *Note: This educational project demonstrates computer vision techniques essential for autonomous vehicle development. The methodologies can be applied to real-world self-driving car systems.*
